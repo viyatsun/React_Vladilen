@@ -18,7 +18,6 @@ const styles = {
 }
 
 function TodoItem ({ todo, index, onChange }) {
-    const 
     const classes = []
 
     if (todo.completed) {
